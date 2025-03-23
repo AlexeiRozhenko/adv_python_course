@@ -1,0 +1,2 @@
+hash(AB) = 474
+hash(CD) = 471
